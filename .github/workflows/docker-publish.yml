@@ -27,6 +27,8 @@ jobs:
           push: true
           tags: r4f4hc8/paginabernat:latest , r4f4hc8/paginabernat:${{github.event.pull_request.title}}
 
+          
+
 
           
 
